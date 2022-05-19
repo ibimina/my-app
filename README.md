@@ -24,8 +24,8 @@ Create a  profile card using  React functional component
 
 ### Links
 
-- Solution URL: (https://github.com/ibimina/day-one-exer-two)
-- Live Site URL:(https://ibimina.github.io/day-one-exer-two/)
+- Solution URL: (https://github.com/ibimina/my-app)
+- Live Site URL:(https://ibimina.github.io/my-app/)
 
 ## My process
 - import react from React
